@@ -1,0 +1,221 @@
+{
+  "userAdmonitions": {
+    "blank": {
+      "type": "blank",
+      "color": "255, 255, 255",
+      "icon": {
+        "name": "border-style",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " "
+    },
+    "thm": {
+      "type": "thm",
+      "color": "41, 187, 22",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "定理"
+    },
+    "def": {
+      "type": "def",
+      "color": "13, 127, 227",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "引理"
+    },
+    "lem": {
+      "type": "lem",
+      "color": "68, 201, 219",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "推论"
+    },
+    "cor": {
+      "type": "cor",
+      "color": "23, 86, 232",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "引文"
+    },
+    "kanban": {
+      "type": "kanban",
+      "color": "154, 16, 104",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col2": {
+      "type": "col2",
+      "color": "100, 65, 58",
+      "icon": {
+        "name": "address-book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col3": {
+      "type": "col3",
+      "color": "232, 216, 67",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "col4": {
+      "type": "col4",
+      "color": "195, 154, 48",
+      "icon": {
+        "name": "address-book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "hibox": {
+      "type": "hibox",
+      "color": "68, 161, 243",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "col": {
+      "type": "col",
+      "color": "201, 155, 107",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "table": {
+      "type": "table",
+      "color": "60, 164, 5",
+      "icon": {
+        "name": "table",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "flex": {
+      "type": "flex",
+      "color": "104, 73, 230",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "music": {
+      "type": "music",
+      "color": "58, 223, 212",
+      "icon": {
+        "name": "music",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "icon": {
+      "type": "icon",
+      "color": "164, 50, 221",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "infobox": {
+      "type": "infobox",
+      "color": "128, 16, 164",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "grid": {
+      "type": "grid",
+      "color": "77, 13, 108",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "masonry": {
+      "type": "masonry",
+      "color": "126, 233, 146",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": true,
+  "defaultCollapseType": "closed",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.7f5ac2"
+}

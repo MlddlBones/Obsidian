@@ -1,0 +1,1 @@
+The fifth of the kingdoms great five families. It is not known why it is on of the five, it isn't one of the biggest producers like 3 and 4, and it doesn't produce Royal knights or aid like 1 and 2 however the King refuses to remove it from this group. 

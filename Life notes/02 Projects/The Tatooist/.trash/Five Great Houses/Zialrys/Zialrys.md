@@ -1,0 +1,1 @@
+The first of the five great families. having the family mark of a sun they have the ability the control light and fire. they make the strongest warriors know to man and control the most prominent churches of a bright heaven

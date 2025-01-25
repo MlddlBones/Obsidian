@@ -1,0 +1,389 @@
+{
+  "main": {
+    "id": "6ddacf89a79eb905",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c5c8c8b549598e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08c69755231d40db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Page"
+            }
+          },
+          {
+            "id": "e8d342b88e1b44a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Chapter 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2"
+            }
+          },
+          {
+            "id": "7f327d55fded7ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
+            }
+          },
+          {
+            "id": "a2296ff205a4c069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Prologue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prologue"
+            }
+          },
+          {
+            "id": "8860a4a4d6914939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Groups/Derene/Derene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derene"
+            }
+          },
+          {
+            "id": "9a00b31b8c1ed03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Characters"
+            }
+          },
+          {
+            "id": "77a4858d465bf5fd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "World Building/Story/Plot line.canvas",
+                "viewState": {
+                  "x": 302.916049759331,
+                  "y": 633.2674614067284,
+                  "zoom": -1.7339271056138872
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Plot line"
+            }
+          },
+          {
+            "id": "07923d500d701ea8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "World Building/Story/Time line.canvas",
+                "viewState": {
+                  "x": 799.8819851815736,
+                  "y": 717.5058482749009,
+                  "zoom": -1.00389395348231
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Time line"
+            }
+          },
+          {
+            "id": "013febb8751066e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Species/DeamonKin/Forma and the Mente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forma and the Mente"
+            }
+          },
+          {
+            "id": "9784d8afef13d8d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Species/DeamonKin/Forma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forma"
+            }
+          },
+          {
+            "id": "3b95a3778359d020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Species/DeamonKin/Mente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mente"
+            }
+          },
+          {
+            "id": "69d357a620727080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Species/DeamonKin/DaemonKin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DaemonKin"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "794f24e2e9c43762",
+    "type": "split",
+    "children": [
+      {
+        "id": "55fc813d021c16c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c680d15ef65405a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce3435b67b13097c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tasks",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25707f60393ad07e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b6cd5267ac4d0809",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae38beb84d440c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6925ef25a6450781",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4d5b4a660715ffa5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bcece42fb6116f71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Building/Story/Time line.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Time line"
+            }
+          },
+          {
+            "id": "d442e7b4aa2378e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Building/Story/Time line.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Time line"
+            }
+          },
+          {
+            "id": "43ae28ca022f6c13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Building/Story/Time line.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Time line"
+            }
+          },
+          {
+            "id": "403376a312a9787e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8860a4a4d6914939",
+  "lastOpenFiles": [
+    "Chapters/Prologue.md",
+    "World Building/Species/DaemonKin.md",
+    "Chapters/Prologue Mena.md",
+    "Characters/Characters.md",
+    "World Building/Species/Plants/Night Bolwarra.md",
+    "Chapters/Chapter 1.md",
+    "Characters/Character Groups/Derene/Five Great Houses/Tirae/Tirae House.md",
+    "Characters/Character Groups/Derene/Five Great Houses/Bayldreot/Bayldreot House.md",
+    "World Building/Species/DeamonKin/Forma.md",
+    "World Building/Species/DeamonKin/Forma and the Mente.md",
+    "World Building/Story/Time line.canvas",
+    "World Building/Story/Plot line.canvas",
+    "Home Page.md",
+    "World Building/Species/DeamonKin/Mente.md",
+    "World Building/Species/DeamonKin/DaemonKin.md",
+    "Chapters/Chapter 2.md",
+    "World Building/Species/DeamonKin",
+    "Templates/Template(species).md",
+    "Chapters/Epilogue.md",
+    "Plot Reminder.md",
+    "Tattoo magic system.md",
+    "Notes/Coming of age.md",
+    "World Building/Tattoo magic system.md",
+    "World Building/Story/Time line History.canvas",
+    "World Building/Items/Undaminite.md",
+    "Characters/Character Groups/Five Great Houses/Zialrys/Church of a Bright Heaven",
+    "Characters/Character Groups/Five Great Houses/Zialrys",
+    "Characters/Character Groups/Five Great Houses/Tirae",
+    "Characters/Character Groups/Five Great Houses/Othi",
+    "Characters/Character Groups/Five Great Houses/Brardas",
+    "Characters/Character Groups/Five Great Houses/Bayldreot",
+    "Characters/Character Groups/Five Great Houses",
+    "Magic Systems",
+    "World Building/Locations/Vivixaris.md",
+    "Brardas.md",
+    "Characters/Template.md",
+    "Characters/Character Groups/Derene/Five Great Houses/Brardas/Brardas House.md",
+    "Magic Systems/Tattoo magic system.md",
+    "Characters/Character Groups/Derene"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#00851b",
+      "url": "https://calendar.google.com/calendar/u/0?cid=Z25pY2hvbHNzYW5jaGV6QGdtYWlsLmNvbQ"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

@@ -1,0 +1,1 @@
+The web personified, while Uamea was working on the second continent with Nacht, Madame Web decided to build her own kin, like Vita and her Grand Children did. Weaving her web into the shape of a one of Vita's humans.

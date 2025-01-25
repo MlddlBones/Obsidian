@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"c30204ac64b5c889","type":"group","x":400,"y":-80,"width":1200,"height":1009,"label":"Untitled group"},
+		{"id":"6a6a6cbe5fe2a376","type":"group","x":401,"y":553,"width":1199,"height":376,"label":"BattleLine"},
+		{"id":"07a3a48752790176","type":"group","x":400,"y":88,"width":600,"height":406,"label":"Characters"},
+		{"id":"2eaeb0507eb6871a","type":"group","x":1000,"y":88,"width":600,"height":406,"label":"Other Datasheets"},
+		{"id":"e3c5d71e1d78b848","type":"text","text":"# Faction-","x":404,"y":-80,"width":320,"height":59},
+		{"id":"074bbe1e80d74e60","type":"text","text":"","x":403,"y":-21,"width":210,"height":59},
+		{"id":"0f2b3b567951d8d3","type":"text","text":"","x":614,"y":-21,"width":110,"height":59},
+		{"id":"2e7f73de76294afd","type":"text","text":"# Warlord- ","x":724,"y":-80,"width":876,"height":119},
+		{"id":"74b4ee54d6041dea","x":-120,"y":-120,"width":476,"height":2024,"type":"text","text":"\n| Unit |Points|\n|------|------|\n|Ahriman|130|\n|Ahriman on Disc of Tzeentch|140|\n|Exalted Sorcerer|100|\n|Exalted Sorcerer on Disc of Tzeentch|115|\n|Infernal Master|90|\n|Magnus the Red|440|\n|Mutalith Vortex Beast|165|\n|5 Rubric Marines|105|\n|10 Rubric Marines|210|\n|5 Scarab Occult Terminators|215|\n|10 Scarab Occult Terminators|430|\n|Thousand Sons Chaos Spawn|65|\n|10 Thousand Sons Cultists|60|\n|20 Thousand Sons Cultists|120|\n|Thousand Sons Daemon Prince|180|\n|Thousand Sons Daemon Prince with Wings|195|\n|Thousand Sons Defiler|190|\n|Thousand Sons Forgefiend|135|\n|Thousand Sons Helbrute|145|\n|Thousand Sons Heldrake|195|\n|Thousand Sons Land Raider|240|\n|Thousand Sons Maulerfiend|155|\n|Thousand Sons Predator Annihilator|130|\n|Thousand Sons Predator Destructor|130|\n|Thousand Sons Rhino|75|\n|Thousand Sons Sorcerer|95|\n|Thousand Sons Sorcerer in Terminator Armour|115|\n|Thousand Sons Vindicator|190|\n|3 Tzaangor Enlightened|45|\n|6 Tzaangor Enlightened|90|\n|Tzaangor Shaman|60|\n|10 Tzaangors|65|\n|20 Tzaangors|130|\n|Kairos Fateweaver|285|\n|Lord of Change|260|\n|The Changeling|90|\n|Fateskimmer|105|\n|Fluxmaster|60|\n|The Blue Scribes|65|\n|Changecaster|65|\n|Blue Horrors|125|\n|Pink Horrors|140|\n|3 Flamers|80|\n|6 Flamers|160|\n|Exalted Flamer|70|\n|3 Screamers|80|\n|6 Screamers|160|\n|Burning Chariot|115|\n|Knight Abominant|455|\n|Knight Desecrator|450|\n|Knight Despoiler|470|\n|Knight Rampager|380|\n|Knight Tyrant|555|\n|War Dog Brigand|160|\n|War Dog Executioner|150|\n|War Dog Huntsman|150|\n|War Dog Karnivore|140|\n|War Dog Stalker|150|\n\n| Enhancment | Points |\n|------------|--------|\n|Arcane Vortex|15|\n|Athenaean Scrolls|20|\n|Lord of Forbidden Lore|25|\n|Umbralefic Crystal|20|"}
+	],
+	"edges":[]
+}

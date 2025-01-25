@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"847c7117f0979d31","type":"group","x":200,"y":1028,"width":1520,"height":332,"label":"Brardas"},
+		{"id":"09e77f07140064ed","type":"group","x":320,"y":200,"width":1087,"height":458,"label":"Church of brighter heaven"},
+		{"id":"15a88677ef211674","type":"file","file":"Characters/Character Groups/Derene/Five Great Houses/Brardas/Mena Brardas.md","x":226,"y":1120,"width":366,"height":122,"color":"3"},
+		{"id":"b579ee90debca09c","type":"file","file":"Characters/Character Groups/Derene/Five Great Houses/Brardas/Nolvene Brardas.md","x":738,"y":1120,"width":368,"height":171,"color":"3"},
+		{"id":"a1a5b0118be6e542","type":"file","file":"Characters/Character Groups/Derene/Five Great Houses/Brardas/Tudec Brardas.md","x":1266,"y":1120,"width":380,"height":140,"color":"3"},
+		{"id":"19ae569508d14d0a","type":"file","file":"The Tatooist/Untitled.md","x":393,"y":280,"width":432,"height":255}
+	],
+	"edges":[
+		{"id":"063463b44d6268bc","fromNode":"15a88677ef211674","fromSide":"right","toNode":"b579ee90debca09c","toSide":"left"},
+		{"id":"5506fe6f5cd641c4","fromNode":"b579ee90debca09c","fromSide":"left","toNode":"15a88677ef211674","toSide":"right","color":"3","label":"Siblings "},
+		{"id":"8faa87f8462f626f","fromNode":"b579ee90debca09c","fromSide":"right","toNode":"a1a5b0118be6e542","toSide":"left"},
+		{"id":"bab48ece72c7c6e1","fromNode":"a1a5b0118be6e542","fromSide":"left","toNode":"b579ee90debca09c","toSide":"right","color":"3","label":"Siblings"},
+		{"id":"087cdff01507bdeb","fromNode":"19ae569508d14d0a","fromSide":"bottom","toNode":"847c7117f0979d31","toSide":"top","label":"Royal tattooist"}
+	]
+}

@@ -1,0 +1,7 @@
+
+
+
+
+
+The bubbling of the cauldron intensifies along with the earthquake. "Don't take this to harshly Mr. Bradras." plunging the knife into what looks to be his eye, without flinching he begins to talk again. "Ill make things even, kind of, an eye for an eye as they say" wrenching the knife from his eye socket he points it down at Mena's empty eye socket. "Ill have to kill you now though", sliding the knife down, leaving a giant gash from the bottom of his eye to his throat. Pressing the knife to his throat, until they hear a slam behind them. The cauldron laying on its side as its contents spill, squirming around, as the liquid begins the solidify and resemble a malnourished arm, pulling itself out of the cauldron. As it crawls out the arm begins to expand as muscle starts to form. The tip of horns poke out. Following it a head than body, than nothing. The creature crawling out of the cauldron disappears. Mena swings his head behind him to see a giant bulky shadow behind him, "Impressive" the shadow utters before swinging his hand. As the Kings hand swings past Mena and the priest the world around them goes white. The demon king has been revived.
+The ruble of a wiped out town side, why am I in the ruble of a wiped out town side.

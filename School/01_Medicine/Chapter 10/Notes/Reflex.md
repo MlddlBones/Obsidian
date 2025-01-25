@@ -1,0 +1,1 @@
+A #Reflex is a rapid, #Involuntary-Muscle reaction that is controlled by the #Spinal-Cord. The #Spinal-Cord reacts immediately to certain types of sensory information such as sudden pain.

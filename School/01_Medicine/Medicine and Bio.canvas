@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"9cc1f777d8d50856","type":"text","text":"```dataview\nList \nFrom #Medicine-HomePage \n```","x":-640,"y":-275,"width":411,"height":490},
+		{"id":"4e80c59efa4abec3","type":"text","text":"```dataview\nlist\nfrom #Word-Part \n```","x":-559,"y":215,"width":250,"height":200},
+		{"id":"af97b0697cd8dcb8","type":"text","text":"```dataview\nlist\nfrom #Diseases \n```","x":-180,"y":-275,"width":250,"height":490},
+		{"id":"57c152e7e3ebf818","type":"text","text":"```dataview\nlist\nfrom #Medical-Procedure \n```","x":70,"y":-275,"width":250,"height":490},
+		{"id":"89dc880b91693e14","type":"text","text":"```dataview\nlist\nfrom #Lab-Diag \n```","x":-150,"y":215,"width":440,"height":365}
+	],
+	"edges":[]
+}

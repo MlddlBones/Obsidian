@@ -1,0 +1,1 @@
+ General Syman greets the party and leads them into the throne room. 

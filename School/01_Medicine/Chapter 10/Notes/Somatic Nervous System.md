@@ -1,0 +1,1 @@
+The #Somatic-Nervous-System controls the #Voluntary movements of #Skeletal-Muscle. Motor commands are the result of conscious thoughts in the #Brain.

@@ -1,0 +1,20 @@
+{
+  "folder": "04 Bookshelf",
+  "fileNameFormat": "{{title}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "999 Cache/Templates/Book Template.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": false,
+  "showCoverImageInSearch": true,
+  "enableCoverImageSave": true,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "999 Cache/Pictures/Covers",
+  "askForLocale": true
+}

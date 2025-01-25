@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-admonitions.c9c6cb",
+    "custom_callouts",
+    "custom-rainbow-colors",
+    "Cards",
+    "Cards(1)"
+  ],
+  "accentColor": "#00a8f0"
+}

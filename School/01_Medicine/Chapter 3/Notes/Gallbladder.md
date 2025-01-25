@@ -1,0 +1,2 @@
+The #Gallbladder is an Accessory organ of [[Digestion]], posterior to the [[Liver]]. It concentrates and stores bile.
+The presence of fatty #Chyme in the #Duodenum causes the #Gallbladder to contract sending #Bile from the #Common-Bile-Duct into the #Duodenum to digest fats

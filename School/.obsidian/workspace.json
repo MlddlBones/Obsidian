@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "3b2372280076b264",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd203279f926afef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3929b298ebae074e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01_Medicine/Medicine and Bio.canvas",
+                "viewState": {
+                  "x": -192.01702891004845,
+                  "y": 42.44148936170211,
+                  "zoom": -0.322695281845558
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Medicine and Bio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cf66703db42bf40",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b45bf426944b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173353b312fcc4f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9968ea8e8ba89b42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "thro",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "87ef7d34a7f2c073",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d37c0f30ee2979b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4f619f6e38c6a0f",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "d15274f977d30c92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home/ToDo/11-13-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 11-13-24"
+            }
+          },
+          {
+            "id": "131c60a239526727",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 6/Plasma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plasma"
+            }
+          },
+          {
+            "id": "ac2683335bfce036",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "84717cd39cbae5ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 6/Plasma.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plasma"
+            }
+          },
+          {
+            "id": "53278d8fd60bdb7d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5c6b53727d379326",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a7f5e642528b38b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "46372fdbdb5e7d68",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "1217838102387a13",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "beb031b3f677f79d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8e1f02aea4ca27a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "3929b298ebae074e",
+  "lastOpenFiles": [
+    "00_Home/HomePage.md",
+    "01_Medicine/Medicine and Bio.canvas",
+    "01_Medicine/Expanding and improving Emergency Medical Services (EMS).md",
+    "Untitled.md",
+    "01_Medicine/Chapter 5/Chapter 5 Cardiology.md",
+    "01_Medicine/Chapter 4/Notes/Lungs.md",
+    "01_Medicine/Chapter 6/Notes/Blood.md",
+    "01_Medicine/Chapter 5/Notes/Veins.md",
+    "01_Medicine/Chapter 6/Chapter 6 Hematology.md",
+    "02_Linguistics/Linguistics.md",
+    "01_Medicine/Chapter 3/Chapter 3 Gastroenterology.md",
+    "01_Medicine/Chapter 13/Notes/Laboratory and Diagnostic Procedures(13).md",
+    "01_Medicine/Chapter 12/Notes/Laboratory and Diagnostic Procedures(12).md",
+    "01_Medicine/Chapter 11/Notes/Laboratory and Diagnostic Procedures(11).md",
+    "01_Medicine/Chapter 10/Notes/Laboratory and Diagnostic Procedures(10).md",
+    "01_Medicine/Chapter 8/Notes/Laboratory and Diagnostic Procedures(8).md",
+    "01_Medicine/Chapter 9/Notes/Laboratory and Diagnostic Procedures(9).md",
+    "01_Medicine/Chapter 7/Notes/Laboratory and Diagnostic Procedures(7).md",
+    "01_Medicine/Chapter 5/Notes/Radiology and Nuclear Medicine Procedures(5).md",
+    "01_Medicine/Chapter 6/Notes/Laboratory and Diagnostic Procedures(6).md",
+    "01_Medicine/Chapter 4/Notes/Laboratory and Diagnostic Procedures(4).md",
+    "01_Medicine/Chapter 3/Notes/Laboratory and Diagnostic Procedures(3).md",
+    "01_Medicine/Chapter 4/Chapter 4 Pulmonology.md",
+    "01_Medicine/Chapter 7/Chapter 7 Dermatology.md",
+    "01_Medicine/Chapter 9/Chapter 9 Orthopedics.md",
+    "01_Medicine/Chapter 8/Chapter 8 Orthopedics.md",
+    "Untitled",
+    "02_Linguistics",
+    "01_Medicine/Chapter 2/Notes",
+    "01_Medicine/Chapter 2",
+    "999_Cache/Pasted image 20240909083948.png",
+    "01_Medicine/Chapter 1/Notes",
+    "01_Medicine/Chapter 1",
+    "999_Cache/Images/Pasted image 20241202130925.png",
+    "999_Cache/Images/Pasted image 20241202130914.png",
+    "999_Cache/Images/Pasted image 20241202130902.png",
+    "999_Cache/Images/Pasted image 20241128184723.png",
+    "999_Cache/Images/Pasted image 20241128181828.png",
+    "999_Cache/Images/Pasted image 20241128181320.png",
+    "999_Cache/Images/Pasted image 20241128180257.png",
+    "999_Cache/Images/Pasted image 20241128175456.png",
+    "999_Cache/Images/Pasted image 20241128174142.png",
+    "01_Medicine/Chapter 14/Notes",
+    "01_Medicine/Chapter 14",
+    "01_Medicine/Chapter 13/Notes",
+    "01_Medicine/Chapter 13",
+    "College Algebra/Refresh.canvas",
+    "Chemistry/Chapter 1-2.canvas"
+  ]
+}

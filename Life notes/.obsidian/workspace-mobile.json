@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00 Home/Dashboard.canvas",
+                "viewState": {
+                  "x": 1382.3333435058594,
+                  "y": 2905.718414306641,
+                  "zoom": 0
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2895aaad36d31622",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d5b914199431941",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2df24b231f13783c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Avoid",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "073783dce60c4cd2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4bc5e57b1b34abb3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b9fe6ea355969f2a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "31eecfa7a0027c30",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "byCreatedTimeReverse",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f051da9da7fba26e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "914432092652c90a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f06001b7dbc8c2e7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "00 Home/Dashboard.canvas",
+    "02 Projects/The Tatooist/Magic system.md",
+    "02 Projects/The Tatooist/The Tattooist.md",
+    "Midgard Project/Midgard Project.md",
+    "Midgard Project/Credits.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Warhammer/Lists.canvas",
+    "Finance advise and steps.md",
+    "Warhammer/Incursion.canvas",
+    "Warhammer army's to try.md",
+    "Seal team Squig.md",
+    "Family History.md",
+    "Camp halfblood campaign.md",
+    "Warhammer/Warhammer army's to try.md",
+    "Meeting room 3.md",
+    "54.md",
+    "Warhammer/Seal team Squig.md",
+    "Warhammer/Warhammer army's to try 1.md",
+    "Untitled",
+    "Warhammer/Onslaught",
+    "Warhammer/Strike force",
+    "Warhammer/Untitled 1",
+    "Warhammer/Incursion",
+    "Warhammer"
+  ]
+}

@@ -1,0 +1,7 @@
+### [Linguistics](https://en.wikipedia.org/wiki/Linguistics#Phonetics_and_phonology)
+- [Phonetics](https://en.wikipedia.org/wiki/Phonetics)
+   - [Articulatory Phonetics](https://en.wikipedia.org/wiki/Articulatory_phonetics)
+   - [Consonants](https://en.wikipedia.org/wiki/Consonant)
+      - [Click Consonants](https://en.wikipedia.org/wiki/Click_consonant)
+         - [How to Roll your R’s](https://www.wikihow.com/Roll-Your-%22R%22s)
+- [Phonology](https://en.wikipedia.org/wiki/Phonology)

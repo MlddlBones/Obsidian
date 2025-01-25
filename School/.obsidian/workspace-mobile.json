@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "c73b1123ae60f29e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d6100167d01bd9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aaf1a133bc0d31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be334690a4962df0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8bf1bfa02c78e982",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4fe37763672dc2ac",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "914c40a4c47ea77f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ef6581fa0466555c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "65bf9a1081848189",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ff84d79b7d02a2a8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "HomePage.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b15e0865ed8e63dd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "HomePage.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d2798b6ccb6ebe75",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "HomePage.md"
+          }
+        }
+      },
+      {
+        "id": "778ee8f2134589a9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4876d786f45d7699",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7aaf1a133bc0d31e",
+  "lastOpenFiles": [
+    "Chemistry/Chapter 3.md",
+    "HomePage.md",
+    "Medical Term/Chapter 2/Chapter 2 The Body in Health and Disease.md"
+  ]
+}

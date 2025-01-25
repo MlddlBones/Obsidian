@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"a8b969531c6f418b","type":"group","x":-1520,"y":720,"width":1360,"height":8360,"label":"Book Shelf"},
+		{"id":"704d5a1a6f8250a8","type":"group","x":726,"y":-182,"width":894,"height":1782,"label":"Projects"},
+		{"id":"4f55461699340bf7","type":"group","x":1800,"y":609,"width":1160,"height":991,"label":"World Building"},
+		{"id":"acb6d4f4a3c854d7","type":"group","x":-547,"y":-240,"width":1027,"height":640,"label":"Home"},
+		{"id":"2b0a06fa74354473","type":"group","x":-1300,"y":-325,"width":460,"height":910,"label":"Games"},
+		{"id":"26495a42d5f97086","type":"file","file":"02 Projects/Midgard Project/Midgard Project.md","x":740,"y":319,"width":400,"height":841},
+		{"id":"e441d1e406b4aff3","type":"file","file":"02 Projects/DND/The Gap/Ever-world Galaxy/Link Between Worlds.md","x":740,"y":-140,"width":400,"height":400},
+		{"id":"d305a4a8fd484048","type":"file","file":"02 Projects/DND/DND.md","x":-1280,"y":-270,"width":400,"height":831},
+		{"id":"1586825c081b80f8","type":"file","file":"02 Projects/DND/The Gap/The Gods.md","x":1180,"y":-140,"width":400,"height":540},
+		{"id":"205510044600bfb6","type":"text","text":"# Games\n- [[League Notes]]\n- Warhammer\n   - [[Armies]]\n   - [[Homemade Space-Marine Chapter]]\n- DND   \n  - [[DND]]\n- Pokemon  \n  - [[Pokemon TGM]] ","x":-480,"y":-200,"width":347,"height":338},
+		{"id":"067b1c0c3db921c1","type":"file","file":"999 Cache/Obscure Markdown Syntax.md","x":220,"y":620,"width":400,"height":466},
+		{"id":"28f9b2c65ccfd60f","type":"text","text":"# Projects\n- DND\n  - [[Ever-world Universe]]\n  - [[Home-World Galaxy]]\n  - [[The Gods]]\n- Pokemon  \n  - [[Midgard Project]]\n  - [[ChangeLog]]\n  - [[Credits]]\n- \"The Tatooist\" (Placeholder)\n  - [[The Tattooist]]\n- School\n  - [Home Page](obsidian://open?vault=School&file=Home%2FHomePage)","x":-22,"y":-100,"width":442,"height":418},
+		{"id":"4c2d282f6be36566","type":"text","text":"```dataview\nTABLE WITHOUT ID\n\tstatus as Status,\n\t\"![|60](\" + cover + \")\" as Cover,\n\tlink(file.link, title) as Title,\n\tauthor as Author,\n\tLocation\nFROM #📚Book\nWHERE alias != \"Template\" AND status = \"read\"\nSORT status DESC, file.ctime ASC\n```","x":-757,"y":760,"width":509,"height":760},
+		{"id":"4c89e71b715358d9","type":"text","text":"```dataview\nTABLE WITHOUT ID\n\tstatus as Status,\n\t\"![|60](\" + cover + \")\" as Cover,\n\tlink(file.link, title) as Title,\n\tauthor as Author,\n\tLocation\nFROM #📚Book\nWHERE alias != \"Template\" AND status = \"Reading\"\nSORT status DESC, file.ctime ASC\n```","x":-1440,"y":760,"width":520,"height":760},
+		{"id":"edd9a9687c1dc16b","type":"file","file":"02 Projects/The Tatooist/World Building/Items.md","x":1840,"y":680,"width":400,"height":400},
+		{"id":"cff6bc5c0bb8d844","type":"file","file":"02 Projects/The Tatooist/World Building/Species.md","x":2480,"y":680,"width":400,"height":400},
+		{"id":"96284f212d696b4e","type":"file","file":"02 Projects/The Tatooist/World Building/Location.md","x":2160,"y":1120,"width":400,"height":400},
+		{"id":"0f778e8110d98739","type":"file","file":"02 Projects/The Tatooist/The Tattooist.md","x":1180,"y":560,"width":400,"height":922},
+		{"id":"cf023f4d5b2fcef7","type":"text","text":"\n``` dataview\nlist\nFrom #Daily_Note\nWhere !contains(file.path, \"Templates\") AND contains(file.path, \"12\")\nSORT file.name ASC\n```\n\n# Life Notes\n- [[Finance advise and steps]]\n- [[Laptop Specs]]","x":-120,"y":620,"width":322,"height":580},
+		{"id":"3eb2528eefbe2021","type":"text","text":"```dataview\nTABLE WITHOUT ID\n\tstatus as Status,\n\t\"![|60](\" + cover + \")\" as Cover,\n\tlink(file.link, title) as Title,\n\tauthor as Author,\n\tLocation\nFROM #📚Book\nWHERE !contains(file.path, \"Templates\")\nSORT status DESC, file.ctime ASC\n```","x":-1440,"y":1560,"width":1192,"height":7480},
+		{"id":"e4794468c1a16d93","x":1154,"y":3026,"width":286,"height":254,"type":"text","text":"The most wanted woman in the town Says she will marry anyone who takes the key off of her cat Many men tried but to know uh Veil until Psalm one befriended the cat and got the cat to give them the key The one man turns out to be a shape shifter and is the cat"},
+		{"id":"566254a9f8c37520","x":1154,"y":2920,"width":286,"height":106,"type":"text","text":"you should really stop looking at that damn mirror"}
+	],
+	"edges":[
+		{"id":"83235fd976187a48","fromNode":"205510044600bfb6","fromSide":"left","toNode":"2b0a06fa74354473","toSide":"right"},
+		{"id":"57fe2bb4cf93ec07","fromNode":"28f9b2c65ccfd60f","fromSide":"right","toNode":"704d5a1a6f8250a8","toSide":"left"},
+		{"id":"311c2076c056c33a","fromNode":"acb6d4f4a3c854d7","fromSide":"bottom","toNode":"a8b969531c6f418b","toSide":"top"},
+		{"id":"cd051d3ecc4c34f2","fromNode":"0f778e8110d98739","fromSide":"right","toNode":"4f55461699340bf7","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+The #Ventricles are Four interconnected cavities within the #[[Brain]]. Lined with #Ependymal-Cells that produce, #Cerebrospinal-Fluid ( #CSF), a clear fluid that cushions and prtects the #Brain and contains glucose and other nutrients.

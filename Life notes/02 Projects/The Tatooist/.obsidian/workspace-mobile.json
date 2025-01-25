@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "1a647236f19a000f",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c8f74a1c3644e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de290d25b3623dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Prologue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prologue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a80c69a7f2d9b77",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2568fec4d1ffbd33",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2c25c247367b36c0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c5896f26618b5288",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7163884edbc4006c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b18d143b3d8a16ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "87db48e50dc0df1b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Chapters/Prologue.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6b9a154e24385323",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Chapters/Prologue.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "66ad4e12467b615c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Chapters/Prologue.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "90e5f8d7bbcaf554",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de290d25b3623dbc",
+  "lastOpenFiles": [
+    "Home Page.md",
+    "World Building/Species/DeamonKin/Mente.md",
+    "World Building/Species/DeamonKin/Forma.md",
+    "World Building/Species/DeamonKin/Forma and the Mente.md",
+    "World Building/Species/DeamonKin/DaemonKin.md",
+    "Chapters/Prologue.md",
+    "Chapters/Chapter 2.md",
+    "World Building/Species/DeamonKin",
+    "Chapters/Prologue Mena.md",
+    "Chapters/Epilogue.md",
+    "Chapters/Chapter 1.md",
+    "Notes/Coming of age.md",
+    "Characters/Characters.md",
+    "Characters/Template.md",
+    "World Building/Story/Plot line.canvas",
+    "Characters/Character Groups/Five Great Houses/Zialrys/Church of a Bright Heaven/Bariel.md",
+    "Untitled.md",
+    "Tattoo magic system.md",
+    "Other Magic System.md",
+    "World Building/Locations/Vivixaris.md",
+    "World Building/Story/Time line History.canvas",
+    "Templates/Template(characters).md",
+    "World Building/Species/Plants/Night Bolwarra.md",
+    "World Building/Species/Plants",
+    "Templates/Template(species).md",
+    "Templates/Template(location).md",
+    "Templates/Template(languages).md",
+    "Templates/Template(items).md",
+    "Templates",
+    "Characters/Relationships.canvas",
+    "Characters/Character Groups/Five Great Houses/Brardas/Brardas.md",
+    "Characters/Character Groups/Five Great Houses/Brardas/Tudec Brardas.md",
+    "Characters/Character Groups/Five Great Houses/Zialrys/Church of a Bright Heaven",
+    "Characters/Character Groups/Five Great Houses/Zialrys",
+    "Characters/Character Groups/Five Great Houses/Tirae",
+    "Characters/Character Groups/Five Great Houses/Othi",
+    "Characters/Character Groups/Five Great Houses/Brardas",
+    "Characters/Character Groups/Five Great Houses/Bayldreot",
+    "Characters/Character Groups/Five Great Houses"
+  ]
+}
