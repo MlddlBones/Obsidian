@@ -16,33 +16,17 @@
               "state": {
                 "file": "00 Home/Dashboard.canvas",
                 "viewState": {
-                  "x": 199,
-                  "y": 109,
-                  "zoom": 0
+                  "x": 720,
+                  "y": 4377.5,
+                  "zoom": -3.3709314674984054
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "0b1e95d2396c8e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Projects/The Tatooist/Magic system.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magic system"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +160,7 @@
       {
         "id": "b1f31268a6119200",
         "type": "tabs",
-        "dimension": 26.38888888888889,
+        "dimension": 26.388888888888893,
         "children": [
           {
             "id": "5dc4ee8d13766b9a",
@@ -196,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Projects/The Tatooist/Magic system.md"
+                "file": "00 Home/Dashboard.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Magic system"
+              "title": "Outline of Dashboard"
             }
           },
           {
@@ -258,7 +242,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0b1e95d2396c8e67",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02 Projects/The Tatooist/Magic system.md",
     "02 Projects/The Tatooist/The Tattooist.md",
